@@ -1,0 +1,21 @@
+{
+  "name": "cs-merchanise",
+  "version": "1.0.0",
+  "description": "Final destination to cs software products",
+  "main": "cs-merchandise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cs",
+    "products",
+    "cs",
+    "merchandise"
+  ],
+  "author": "chandra sekhar",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}

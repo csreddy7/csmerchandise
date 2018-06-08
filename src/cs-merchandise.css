@@ -1,0 +1,46 @@
+.cs-logo{
+    height: 300px;
+    background-color: #563d7c;
+    color: #fff;
+    font-size: 4rem;
+    text-align: center;
+    line-height: 300px;
+}
+.cs-description{
+    height: 100px;
+    background-color: #fff;
+    color: #000;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 100px;
+}
+
+header ul{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #563d7c;
+    color: #fff;
+    
+}
+
+header ul li{
+    display: inline-block;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+footer{
+    background-color: #563d7c;
+    height: 50px;
+    text-align: center;
+    color: #fff;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
