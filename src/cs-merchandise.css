@@ -20,8 +20,8 @@ header ul{
     border: 0;
     padding: 0;
     list-style: none;
-    background-color: #563d7c;
-    color: #fff;
+    background-color: #fff;
+    color: #563d7c;
     
 }
 
@@ -29,7 +29,6 @@ header ul li{
     display: inline-block;
     height: 50px;
     text-align: center;
-    line-height: 50px;
     padding: 1rem;
     cursor: pointer;
 }
