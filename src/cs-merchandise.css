@@ -23,7 +23,13 @@ header{
     color:#563d7c;
     font-size: 1.6rem;
 }
+.cs-logo-content{
+    transform: translateY(100%);
+}
 
+.cs-description-content{
+    transform: translateY(100%);
+}
 
 body>footer{
     background-color: #563d7c;
