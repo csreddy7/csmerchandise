@@ -36,7 +36,8 @@ main{
 body>footer{
     height: 30px;
     text-align: center;
-    color: #563d7c;
+    color: #fff;
+    background-color: #563d7c;
     font-weight: bold;
     line-height: 30px;
     position: fixed;
