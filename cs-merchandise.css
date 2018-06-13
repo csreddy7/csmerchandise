@@ -28,7 +28,9 @@ main{
 }
 
 .cs-description-content{
+    width:80%;
     margin-top: 2rem;
+    text-align: right;
 }
 
 body>footer{
