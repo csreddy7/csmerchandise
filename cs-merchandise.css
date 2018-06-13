@@ -1,22 +1,28 @@
-html,body,main,article,section,.container-fluid{
+html,body,article,section{
     height: 100%;
+}
+
+main{
+    height: calc(50% - 50px);
 }
 
 .cs-logo{
     height: 50%;
     background-color: #563d7c;
     color: #fff;
-    font-size: 4rem;
     text-align: center;
+    overflow: auto;
 }
+
 .cs-description{
-    height: 50%;
     background-color: #fff;
     color:#563d7c;
     font-size: 1.6rem;
+    overflow: auto;
 }
+
 .cs-logo-content{
-    transform: translateY(100%);
+    font-size: 3rem;
 }
 
 .cs-description-content{
@@ -29,24 +35,14 @@ body>footer{
     color: #563d7c;
     font-weight: bold;
     line-height: 30px;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
-a{
-    color: #fff;
+
+a,a:hover{
+    color: #563d7c;
+    font-size: 1.1rem;
 }
 
-.blockquote-footer{
-    text-align: right;
-}
-a:hover{
-    color: #fff;
-    background: #563d7c;
-    border-radius: 0.2rem;
-}
-
-nav{
-    margin:0.4rem !important;
-}
 
