@@ -23,6 +23,8 @@ main{
 
 .cs-logo-content{
     font-size: 3rem;
+    position: relative;
+    top: calc(50% - 4rem);
 }
 
 .cs-description-content{
@@ -41,8 +43,11 @@ body>footer{
 }
 
 a,a:hover{
-    color: #563d7c;
+    color:#fff ;
     font-size: 1.1rem;
 }
 
+nav{
+    background-color: #563d7c;
+}
 
